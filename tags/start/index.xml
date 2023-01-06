@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tiv4n</title>
-    <link>https://Tiv4n.github.io/</link>
-    <description>Recent content on Tiv4n</description>
+    <title>start on Tiv4n</title>
+    <link>https://Tiv4n.github.io/tags/start/</link>
+    <description>Recent content in start on Tiv4n</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>IT-it</language>
-    <lastBuildDate>Fri, 06 Jan 2023 12:40:58 +0100</lastBuildDate><atom:link href="https://Tiv4n.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Intro</title>
-      <link>https://Tiv4n.github.io/posts/burpsuiteacademy/intro/</link>
-      <pubDate>Fri, 06 Jan 2023 12:40:58 +0100</pubDate>
-      
-      <guid>https://Tiv4n.github.io/posts/burpsuiteacademy/intro/</guid>
-      <description>In questa serie voglio approfondire l&amp;rsquo;accademy offerta da portswigger per imparare a conoscere, individuare e sfruttare le vulnerabilità web.
-La Web Security Academy consiste in una vasta gamma di lezioni che comprendono la maggior parte delle vulnerabilità web presenti nelle applicazioni odierne. Le varie lezioni ti spiegano prima di cosa si tratta, successivamente ti spiegano come individuarla, sfruttarla ed eventualmente a imparare ad utilizzare alcuni metodi di evasione quando si cerca di mitigare la vulnerabilità senza risolverla (succede spesso).</description>
-      <content>&lt;p&gt;In questa serie voglio approfondire l&amp;rsquo;accademy offerta da portswigger per imparare a conoscere, individuare e sfruttare le vulnerabilità web.&lt;/p&gt;
-&lt;p&gt;La &lt;a href=&#34;https://portswigger.net/web-security&#34;&gt;Web Security Academy&lt;/a&gt; consiste in una vasta gamma di lezioni che comprendono la maggior parte delle vulnerabilità web presenti nelle applicazioni odierne.
-Le varie lezioni ti spiegano prima di cosa si tratta, successivamente ti spiegano come individuarla, sfruttarla ed eventualmente a imparare ad utilizzare alcuni metodi di evasione quando si cerca di mitigare la vulnerabilità senza risolverla (succede spesso).
-La cosa veramente utile è la possibilità di fare i vari laboratori per capire come funzionano le vulnerabilità dal punto di vista pratico. Anche se alcuni laboratori sono un po&#39; complessi da capire all&amp;rsquo;inizio, penso che sia una risorsa estremamente utile che ti prepara in modo adeguato alle prime sfide nel tuo percorso lavorativo.&lt;/p&gt;
-&lt;p&gt;Se vuoi approfondire o farmi domande, invia una mail a: &lt;a href=&#34;mailto:tiv4n@proton.me&#34;&gt;tiv4n@proton.me&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Wed, 04 Jan 2023 19:55:21 +0100</lastBuildDate><atom:link href="https://Tiv4n.github.io/tags/start/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Da dove iniziare</title>
       <link>https://Tiv4n.github.io/posts/inizio/</link>
@@ -54,27 +38,6 @@ I PRO di queste competizioni sono l&amp;rsquo;enorme diversità degli argomenti 
 Il principale difetto invece è la quantita di tempo richiesta per giocare.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Se vuoi approfondire o farmi domande, invia una mail a: &lt;a href=&#34;mailto:tiv4n@proton.me&#34;&gt;tiv4n@proton.me&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>whoami</title>
-      <link>https://Tiv4n.github.io/whoami/</link>
-      <pubDate>Wed, 04 Jan 2023 18:56:21 +0100</pubDate>
-      
-      <guid>https://Tiv4n.github.io/whoami/</guid>
-      <description>Chi sono Tiv4n: Appassionato di sicurezza informatica, sviluppo
-Formazione  Laurea triennale in automazione Laurea magistrale in Telecommunication engineering Penetration tester  Racconto quello che faccio, studio e mi piace.</description>
-      <content>&lt;h1 id=&#34;chi-sono&#34;&gt;Chi sono&lt;/h1&gt;
-&lt;p&gt;Tiv4n:
-Appassionato di sicurezza informatica, sviluppo&lt;/p&gt;
-&lt;h1 id=&#34;formazione&#34;&gt;Formazione&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Laurea triennale in automazione&lt;/li&gt;
-&lt;li&gt;Laurea magistrale in Telecommunication engineering&lt;/li&gt;
-&lt;li&gt;Penetration tester&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Racconto quello che faccio, studio e mi piace.&lt;/p&gt;
 </content>
     </item>
     

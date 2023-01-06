@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tiv4n Blog</title>
+    <title>Tags on Tiv4n</title>
     <link>https://Tiv4n.github.io/tags/</link>
-    <description>Recent content in Tags on Tiv4n Blog</description>
+    <description>Recent content in Tags on Tiv4n</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>IT-it</language><atom:link href="https://Tiv4n.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>IT-it</language>
+    <lastBuildDate>Wed, 04 Jan 2023 19:55:21 +0100</lastBuildDate><atom:link href="https://Tiv4n.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>path</title>
+      <link>https://Tiv4n.github.io/tags/path/</link>
+      <pubDate>Wed, 04 Jan 2023 19:55:21 +0100</pubDate>
+      
+      <guid>https://Tiv4n.github.io/tags/path/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>start</title>
+      <link>https://Tiv4n.github.io/tags/start/</link>
+      <pubDate>Wed, 04 Jan 2023 19:55:21 +0100</pubDate>
+      
+      <guid>https://Tiv4n.github.io/tags/start/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
