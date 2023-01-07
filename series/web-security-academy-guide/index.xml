@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>security on tiv4n&#39;s blog</title>
-    <link>/tags/security/</link>
-    <description>Recent content in security on tiv4n&#39;s blog</description>
+    <title>Web Security Academy guide on tiv4n&#39;s blog</title>
+    <link>/series/web-security-academy-guide/</link>
+    <description>Recent content in Web Security Academy guide on tiv4n&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/series/web-security-academy-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Security academy: Intro</title>
       <link>/series/web-security-academy-guide/intro/</link>
