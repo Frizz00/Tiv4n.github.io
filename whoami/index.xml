@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whoami on tiv4n&#39;s blog</title>
+    <link>/whoami/</link>
+    <description>Recent content in Whoami on tiv4n&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 04 Jan 2023 18:56:21 +0100</lastBuildDate><atom:link href="/whoami/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>whoami</title>
+      <link>/whoami/whoami/</link>
+      <pubDate>Wed, 04 Jan 2023 18:56:21 +0100</pubDate>
+      
+      <guid>/whoami/whoami/</guid>
+      <description>Chi sono Tiv4n: Appassionato di sicurezza informatica, sviluppo
+Formazione  Laurea triennale in automazione Laurea magistrale in Telecommunication engineering Penetration tester  Racconto quello che faccio, studio e mi piace.</description>
+    </item>
+    
+  </channel>
+</rss>
