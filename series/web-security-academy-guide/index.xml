@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/series/web-security-academy-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Security academy: Intro</title>
-      <link>/series/web-security-academy-guide/intro/</link>
+      <link>/serie/web-security-academy-guide/intro/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/series/web-security-academy-guide/intro/</guid>
+      <guid>/serie/web-security-academy-guide/intro/</guid>
       <description>In questa serie voglio approfondire l&amp;rsquo;accademy offerta da portswigger per imparare a conoscere, individuare e sfruttare le vulnerabilità web.
 La Web Security Academy consiste in una vasta gamma di lezioni che comprendono la maggior parte delle vulnerabilità web presenti nelle applicazioni odierne. Le varie lezioni ti spiegano prima di cosa si tratta, successivamente ti spiegano come individuarla, sfruttarla ed eventualmente a imparare ad utilizzare alcuni metodi di evasione quando si cerca di mitigare la vulnerabilità senza risolverla (succede spesso).</description>
     </item>

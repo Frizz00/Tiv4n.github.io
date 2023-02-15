@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Security academy: Intro</title>
-      <link>/series/web-security-academy-guide/intro/</link>
+      <link>/serie/web-security-academy-guide/intro/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/series/web-security-academy-guide/intro/</guid>
+      <guid>/serie/web-security-academy-guide/intro/</guid>
       <description>In questa serie voglio approfondire l&amp;rsquo;accademy offerta da portswigger per imparare a conoscere, individuare e sfruttare le vulnerabilità web.
 La Web Security Academy consiste in una vasta gamma di lezioni che comprendono la maggior parte delle vulnerabilità web presenti nelle applicazioni odierne. Le varie lezioni ti spiegano prima di cosa si tratta, successivamente ti spiegano come individuarla, sfruttarla ed eventualmente a imparare ad utilizzare alcuni metodi di evasione quando si cerca di mitigare la vulnerabilità senza risolverla (succede spesso).</description>
     </item>
@@ -23,7 +23,7 @@ La Web Security Academy consiste in una vasta gamma di lezioni che comprendono l
       <pubDate>Wed, 04 Jan 2023 19:55:21 +0100</pubDate>
       
       <guid>/posts/inizio/</guid>
-      <description>Intro Ormai due anni fa, ho deciso che avrei intrapreso il mio percorso nella sicurezza informatica. Arrivo da un percorso di studi che si è sempre avvicinato a questi temi fino a sfiorarne alcuni angoli, senza mai addentrarsi nei dettagli.
+      <description>Ormai due anni fa, ho deciso che avrei intrapreso il mio percorso nella sicurezza informatica. Arrivo da un percorso di studi che si è sempre avvicinato a questi temi fino a sfiorarne alcuni angoli, senza mai addentrarsi nei dettagli.
 Durante il primo lockdown mi sono reso conto di aver sempre voluto &amp;ldquo;fare l&amp;rsquo;hacker&amp;rdquo; però non ho mai preso seriamente in considerazione la cosa, declassando la mia passione ad una fissazione dovuta a serie e film sul tema.</description>
     </item>
     
